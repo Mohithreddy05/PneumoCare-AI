@@ -1,0 +1,6 @@
+# Streamlit app / deployment dependencies (CPU inference)
+streamlit
+tensorflow-cpu==2.20.0
+numpy
+pillow
+matplotlib
